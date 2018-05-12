@@ -1,0 +1,38 @@
+_repo: Catholic-Churchmen-in-Science_34067
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walsh, James J. (James Joseph)
+    aliases:
+    - Walsh, J. J. (James Joseph)
+    - Walsh, James Joseph
+    birthdate: 1865
+    deathdate: 1942
+    gutenberg_agent_id: '36672'
+    url: http://www.gutenberg.org/2009/agents/36672
+    wikipedia: http://en.wikipedia.org/wiki/James_Joseph_Walsh
+description: ''
+gutenberg_issued: '2010-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34067'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholics'
+- !lcsh 'Religion and science'
+- !lcc 'Q'
+- !lcsh 'Scientists -- Biography'
+tableOfContents: 'Preface -- The supposed opposition of science and religion -- Copernicus
+  and his times -- Basil Valentine, founder of modern chemistry -- Linacre: scholar,
+  physician, priest -- Father Kircher, S.J.: scientist, orientalist, and collector
+  -- Bishop Stensen: anatomist and father of geology -- Abbé Haüy: father of crystallography
+  -- Abbot Mendel: a new outlook in heredity.'
+title: "Catholic Churchmen in Science [First Series]\r\nSketches of the Lives of Catholic\
+  \ Ecclesiastics Who Were Among the Great Founders in Science"
+url: http://www.gutenberg.org/ebooks/34067
